@@ -11,6 +11,7 @@ First, see [how CONTRIBUTING.md works on GitHub](https://github.com/blog/1184-co
 
 Include the CONTRIBUTING.md file into the root of your repository where you wish to 
 provide information about contributions by externals. This helps people to properly work on your repo.
+People find this way as a better and liable way of doing codding. . 
 
 ===============
 
